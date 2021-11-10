@@ -1,0 +1,31 @@
+.card img{
+  width: 200px;
+}
+
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 200px auto;
+  padding-left: 400px; 
+  max-width: 700px;
+  overflow: hidden;
+}
+.card{
+  margin: 0px 50px;
+  
+}
+.left{
+  position: absolute;
+  left: 40px;
+  top: 50%;
+  height: 40px;
+}
+
+.right{
+  position: absolute;
+  right: 40px;
+  top: 50%;
+  height: 40px;
+
+}
